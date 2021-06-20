@@ -413,6 +413,10 @@ http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/9320/index.m3u
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/9323/index.m3u
 #EXTINF:-1 group-title="Развлекательные",Discovery Science HD orig
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/9326/index.m3u
+#EXTINF:-1 group-title="Развлекательные",Discovery Ultra 4K orig
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/10048/index.m3u
+#EXTINF:-1 group-title="Развлекательные",Discovery HD orig
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/9011/index.m3u
 #EXTINF:-1 group-title="Развлекательные",Наша сибирь HD orig
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/9330/index.m3u
 #EXTINF:-1 group-title="Развлекательные",Museum HD
@@ -441,8 +445,6 @@ http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/993/index.m3u
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/6369/index.m3u
 #EXTINF:-1 group-title="Развлекательные",HGTV HD RU
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/6391/index.m3u
-#EXTINF:-1 group-title="Развлекательные",Discovery HD orig
-http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/9011/index.m3u
 #EXTINF:-1 group-title="Развлекательные",H2 HD orig
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/9013/index.m3u
 #EXTINF:-1 group-title="Развлекательные",Animal Planet HD orig
@@ -479,8 +481,6 @@ http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/10023/index.m3u
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/10025/index.m3u
 #EXTINF:-1 group-title="Развлекательные",Food network HD 50
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/10026/index.m3u
-#EXTINF:-1 group-title="Развлекательные",Discovery Ultra 4K orig
-http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/10048/index.m3u
 #EXTINF:-1 group-title="Развлекательные",MyZen TV 4K
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/5002/index.m3u
 #EXTINF:-1 group-title="Развлекательные",HD Life
