@@ -507,18 +507,10 @@ http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/9038/index.m3u
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/9049/index.m3u
 #EXTINF:-1 group-title="Развлекательные",SKY SPORTS F1 UK
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/7342/index.m3u
-#EXTINF:-1 group-title="Кино",VF TOP Series
-http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/11116/index.m3u8
 #EXTINF:-1 group-title="Кино",VF VHS Cartoon
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/11118/index.m3u8
-#EXTINF:-1 group-title="Кино",VF Art house
-http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/11119/index.m3u8
-#EXTINF:-1 group-title="Кино",VF Detective
-http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/11120/index.m3u8
 #EXTINF:-1 group-title="Кино",VF Fantastic
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/11121/index.m3u8
-#EXTINF:-1 group-title="Кино",VF Оскар
-http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/11122/index.m3u8
 #EXTINF:-1 group-title="Кино",VF Малыш
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/11123/index.m3u8
 #EXTINF:-1 group-title="Кино",TOP Великолепный Век HD
@@ -645,8 +637,6 @@ http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/13062/index.m3u8
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/13063/index.m3u8
 #EXTINF:-1 group-title="Кино",минимакс-Чип и Дейл HD
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/13064/index.m3u8
-#EXTINF:-1 group-title="Кино",VF Сваты
-http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/13080/index.m3u8
 #EXTINF:-1 group-title="Кино",VF Солдаты
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/13081/index.m3u8
 #EXTINF:-1 group-title="Кино",VF Тайны следствия
