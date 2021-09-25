@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="Развлекательные",Первый HD
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/204/index.m3u
 #EXTINF:-1 group-title="Развлекательные",Первый канал (+2)
@@ -415,14 +415,10 @@ http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/10025/index.m3u
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/10026/index.m3u
 #EXTINF:-1 group-title="Развлекательные",MyZen TV 4K
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/5002/index.m3u
-#EXTINF:-1 group-title="Развлекательные",HD Life
-http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/226/index.m3u
 #EXTINF:-1 group-title="Развлекательные",DTX HD orig
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/5064/index.m3u
 #EXTINF:-1 group-title="Развлекательные",Арсенал HD
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/5044/index.m3u
-#EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
-http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/5034/index.m3u
 #EXTINF:-1 group-title="Развлекательные",ТНТ HD 50
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/10024/index.m3u
 #EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
@@ -681,3 +677,175 @@ http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14136/index.m3u8
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14137/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",минимакс-live planet HD
 http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/13095/index.m3u8
+#EXTINF:-1 group-title="Кино",Millennium TV HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14160/index.m3u8
+#EXTINF:-1 group-title="Кино",Akudji FilmBox HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14161/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV GRAND
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14171/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV VHS
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14172/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Русские фильмы
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14174/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Советские фильмы
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14175/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV NEW Кино
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14177/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Music Hits
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14179/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Трагичное
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14219/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Забавное
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14234/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO KOWBOYSKOE
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14235/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO BEST
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14236/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Adrenaline
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15105/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug Comedy HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14209/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug Fantastic HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14210/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug History HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14211/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug Hit HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14212/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug Horror HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14213/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug Kids HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14214/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug Marvel HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14215/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug New HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14216/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug Russian HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14217/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug СССР HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14218/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug TV VHS
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14225/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug TV Ходячие мертвецы
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14226/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug TV Сериал
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14227/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug TV Сваты
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14228/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug TV ER
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15102/index.m3u8
+#EXTINF:-1 group-title="Кино",Твое ТВ HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14229/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH SERIES HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14240/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH HEROES HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14242/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH EPOCH HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14243/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH FRESH HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14244/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH MIX 3D
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14246/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH SPIRIT HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/14249/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH FUTURE HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15103/index.m3u8
+#EXTINF:-1 group-title="Кино",BCUMEDIA OLD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15024/index.m3u8
+#EXTINF:-1 group-title="Кино",BCU Marvel OLD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15025/index.m3u8
+#EXTINF:-1 group-title="Кино",BCU Comedy OLD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15026/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Уилл Смит HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15028/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Боевики CCCP
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15029/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Анжелика HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15030/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Mix Ужасы Триллеры
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15032/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Фантастика VHS
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15033/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Юрий Никулин
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15034/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Детектив СССР
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15035/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV DRAMA HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15037/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Байки Митяя
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15039/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Байки из склепа
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15040/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Сверхъестественное
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15042/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Мастер и Маргарита
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15045/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Доктор Кто
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15046/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Друзья
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15048/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Южный Парк / South Park HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15055/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Восставший из ада HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15057/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Фантастика CCCР
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15060/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Пуаро Агаты Кристи HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15061/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Дженнифер Энистон HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15063/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Артхаус HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15066/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Одесская киностудия
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15071/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Внутри Лапенко HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15074/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Twin Peaks HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15075/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Тайный дневник девушки по вызову
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15076/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Дубляж СССР
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15079/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Вестерн
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15080/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Спорт
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15082/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV Чёртова служба в госпитале МЭШ
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15084/index.m3u8
+#EXTINF:-1 group-title="Кино",LIBERTY DC
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15087/index.m3u8
+#EXTINF:-1 group-title="Кино",LIBERTY UJASY
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15088/index.m3u8
+#EXTINF:-1 group-title="Кино",LIBERTY TRILLER
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15089/index.m3u8
+#EXTINF:-1 group-title="Кино",LIBERTY MARVEL
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15090/index.m3u8
+#EXTINF:-1 group-title="Кино",LIBERTY korotkie
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15091/index.m3u8
+#EXTINF:-1 group-title="Кино",LIBERTY drama
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15095/index.m3u8
+#EXTINF:-1 group-title="Кино",LIBERTY boevik
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15096/index.m3u8
+#EXTINF:-1 group-title="Кино",LIBERTY KINOMIKS
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15110/index.m3u8
+#EXTINF:-1 group-title="Кино",LIBERRTY THE SIMSONS
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15111/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинозал HEVC HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15099/index.m3u8
+#EXTINF:-1 group-title="Кино",Сериал "Скорая помощь"
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15100/index.m3u8
+#EXTINF:-1 group-title="Кино",Сериал "Симпсоны"
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15101/index.m3u8
+#EXTINF:-1 group-title="Кино",SC TV HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15114/index.m3u8
+#EXTINF:-1 group-title="Кино",MS ANIMATED HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15135/index.m3u8
+#EXTINF:-1 group-title="Кино",MS PRISONS HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15137/index.m3u8
+#EXTINF:-1 group-title="Кино",MS TOONS HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15138/index.m3u8
+#EXTINF:-1 group-title="Кино",MS YOUNG BLOOD HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15139/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",SKY HIGH CLASSIC HD
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/15104/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",минимакс-relax HD 30 FPS
+http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/13030/index.m3u8
